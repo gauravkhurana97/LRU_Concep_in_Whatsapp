@@ -3,6 +3,7 @@ import {
     chat_names
 } from './ChatApp.js';
 
+
 onload = function () {
 
     const chatlist = document.getElementById('chat-list');
